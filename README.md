@@ -1,1 +1,0 @@
-VKTaxi app

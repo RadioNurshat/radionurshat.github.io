@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.981f7211.chunk.css",
-    "main.js": "/static/js/main.9bee9765.chunk.js",
-    "main.js.map": "/static/js/main.9bee9765.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e590c699.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e590c699.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.942e6115.chunk.js": "/static/js/2.942e6115.chunk.js",
-    "static/js/2.942e6115.chunk.js.map": "/static/js/2.942e6115.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.75f05943a1332c12e8d2eac3e579da5d.js": "/precache-manifest.75f05943a1332c12e8d2eac3e579da5d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.942e6115.chunk.js.LICENSE.txt": "/static/js/2.942e6115.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/static/media/persik.4e1ec840.png"
+    "main.css": "/radionurshat.github.io/static/css/main.981f7211.chunk.css",
+    "main.js": "/radionurshat.github.io/static/js/main.340d625d.chunk.js",
+    "main.js.map": "/radionurshat.github.io/static/js/main.340d625d.chunk.js.map",
+    "runtime-main.js": "/radionurshat.github.io/static/js/runtime-main.1fc5bcc7.js",
+    "runtime-main.js.map": "/radionurshat.github.io/static/js/runtime-main.1fc5bcc7.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/radionurshat.github.io/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.b897162d.chunk.js": "/radionurshat.github.io/static/js/2.b897162d.chunk.js",
+    "static/js/2.b897162d.chunk.js.map": "/radionurshat.github.io/static/js/2.b897162d.chunk.js.map",
+    "index.html": "/radionurshat.github.io/index.html",
+    "precache-manifest.19eb0651c2801672f3cb9e15f99b99b6.js": "/radionurshat.github.io/precache-manifest.19eb0651c2801672f3cb9e15f99b99b6.js",
+    "service-worker.js": "/radionurshat.github.io/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/radionurshat.github.io/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/radionurshat.github.io/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.b897162d.chunk.js.LICENSE.txt": "/radionurshat.github.io/static/js/2.b897162d.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/radionurshat.github.io/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e590c699.js",
+    "static/js/runtime-main.1fc5bcc7.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.942e6115.chunk.js",
+    "static/js/2.b897162d.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.9bee9765.chunk.js"
+    "static/js/main.340d625d.chunk.js"
   ]
 }
